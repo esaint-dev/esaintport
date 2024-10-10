@@ -31,6 +31,10 @@ html {
   }
   
 
+  .title-1 {
+    @apply text-[22px] font-normal 
+  }
+
    /* Utilities */
 
    .material-symbols-rounded {

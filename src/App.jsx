@@ -8,6 +8,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import SkillCard from "./components/SkillCard";
 import Skills from "./components/Skills";
+import Work from "./components/Work";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Hero />
         <About />
         <Skills /> 
+        <Work /> 
       </main>
     </>
   );
