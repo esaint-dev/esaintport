@@ -115,7 +115,7 @@ const Contact = () => {
       </div>
 
       <form 
-        action="" 
+        action="https://getform.io/f/adryeqpa" 
         method="POST"
         className="xl:pl-10 2xl:pl-20"
       >
@@ -143,7 +143,7 @@ const Contact = () => {
           />
           </div>
 
-        <div className="">
+        <div className="mb-4">
           <div className="">
         
             <label 
@@ -168,7 +168,7 @@ const Contact = () => {
         </div>   
         </div>
 
-        <div className="">
+        <div className="mb-4">
           <label 
           htmlFor="message"
           className="label"
@@ -182,7 +182,7 @@ const Contact = () => {
             id="message"
             placeholder="Hi!"
             required
-            className="text-field"
+            className="text-field resize-y min-h-32 max-h-80 "
           >
 
             </textarea>
@@ -190,7 +190,7 @@ const Contact = () => {
 
         <button 
           type="submit"
-          className="btn btn-primary"
+          className="btn btn-primary [&]:max-w-full "
         >
             Submit
         </button>
