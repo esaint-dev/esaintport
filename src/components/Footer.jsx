@@ -111,7 +111,7 @@ const Footer = () => {
 
         <div className="flex items-center justify-between pt-10  mb-8 ">
             <a 
-                href="" 
+                href="/" 
                 className=""
             >
                 <img 
