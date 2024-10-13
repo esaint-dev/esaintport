@@ -24,30 +24,30 @@ const sitemap = [
   },
   {
     label: "Contact me",
-    href: "#contact",
+    href: "https://wa.me/2348121855275?text=I%20have%20an%20offer%20for%20you",
   },
 ];
 
 const socials = [
   {
     label: "GitHub",
-    href: "https://www.github.com/codewithsadee-org",
+    href: "https://github.com/esaint-dev",
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/codewithsadee",
+    href: "https://www.linkedin.com/in/esaint-mjay-50875b247/",
   },
   {
     label: "Twitter X",
-    href: "https://x.com/codewithsadee_",
+    href: "https://x.com/villandaddy",
   },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/codewithsadee",
+    href: "https://www.instagram.com/esaint.de/",
   },
   {
-    label: "CodePen",
-    href: "https://codepen.io/codewithsadee",
+    label: "WhatsApp",
+    href: "https://wa.me/2348121855275?text=I%20have%20an%20offer%20for%20you",
   },
 ];
 
@@ -63,6 +63,7 @@ const Footer = () => {
 
             <ButtonPrimary
               href="mailto:esaint.song@gmail.com"
+              target="_blank"
               label="Start project"
               icon="arrow_right"
               classes='reveal-up'

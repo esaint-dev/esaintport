@@ -10,6 +10,7 @@ import { ButtonPrimary, ButtonOutline } from "./Button";
 
 
 
+
 const Hero = () => {
   return (
     <section className="pt-28 lg:pt-36" id="home">
@@ -39,7 +40,11 @@ const Hero = () => {
           </h2>
           <div className="flex items-center gap-3  ">
             <ButtonPrimary label="Download CV"
-            icon="download" />
+            icon="download"
+            target="_blank"
+            rel="noopener noreferrer" download
+            href={'images/Esaint-Mjay-CV.pdf'}
+            />
             
             <ButtonOutline
             href="#about" 
