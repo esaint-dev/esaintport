@@ -56,6 +56,9 @@ html {
     @apply w-full h-full object-cover
    }
 
+   .reveal-up {
+    @apply translate-y-20 opacity-0 
+   }
 
 
 
