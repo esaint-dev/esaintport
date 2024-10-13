@@ -38,7 +38,7 @@ const Header = () => {
           <Navbar navOpen={navOpen} />
         </div>
 
-        <a href="#contact"
+        <a href="https://wa.me/2348121855275?text=I%20have%20an%20offer%20for%20you"
         className="btn btn-secondary max-md:hidden md:justify-self-end">
             Contact Me
         </a>

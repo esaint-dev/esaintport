@@ -20,28 +20,28 @@ const works = [
       projectLink: 'https://pixstock-official.vercel.app/'
     },
     {
-      imgSrc: '/images/project-3.jpg',
-      title: 'Recipe app',
+      imgSrc: '/images/project-30.jpg',
+      title: 'Travel App UI',
       tags: ['Development', 'API'],
-      projectLink: ''
+      projectLink: 'https://putuk-camp-ly2p0n2pj-esaint-devs-projects.vercel.app/'
     },
     {
-      imgSrc: '/images/project-4.jpg',
-      title: 'Real state website',
+      imgSrc: '/images/project-10.jpg',
+      title: 'Crypto Learning website',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee-org/wealthome'
+      projectLink: 'https://ifreks.com/'
     },
     {
-      imgSrc: '/images/project-5.jpg',
-      title: 'eCommerce website',
-      tags: ['eCommerce', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+      imgSrc: '/images/project-50.jpg',
+      title: 'Sushi website',
+      tags: ['Food', 'website'],
+      projectLink: 'https://sushi-app-fawn.vercel.app/'
     },
     {
-      imgSrc: '/images/project-6.jpg',
-      title: 'vCard Personal portfolio',
-      tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+      imgSrc: '/images/project-60.jpg',
+      title: 'Neuro AI Website',
+      tags: ['AI', 'Website'],
+      projectLink: 'https://neuro-nextjs.vercel.app/'
     },
   ];
 
