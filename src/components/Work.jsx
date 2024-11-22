@@ -32,12 +32,6 @@ const works = [
       projectLink: 'https://ifreks.com/'
     },
     {
-      imgSrc: '/images/project-50.jpg',
-      title: 'Sushi website',
-      tags: ['Food', 'website'],
-      projectLink: 'https://sushi-app-fawn.vercel.app/'
-    },
-    {
       imgSrc: '/images/project-60.jpg',
       title: 'Neuro AI Website',
       tags: ['AI', 'Website'],
